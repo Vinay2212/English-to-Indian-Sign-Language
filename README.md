@@ -1,7 +1,7 @@
 # English-to-Indian-Sign-Language
 The project runs on jupyternotebook.
 The main project file is a python file.
-The code is present in code.docx rename it as code.py .
+The code is present in main.py. 
 
 The dependencies for this project are:
 First java needs to be installed from here https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
